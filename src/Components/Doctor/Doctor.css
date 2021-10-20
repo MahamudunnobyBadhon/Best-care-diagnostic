@@ -1,0 +1,8 @@
+.home-doctor :hover{
+    transform: scale(1.02);
+    transition: transform 1.5s linear;
+}
+
+.home-doctor img{
+    border-radius: 10px;
+}

@@ -1,0 +1,8 @@
+.all-service :hover{
+    transform: scale(1.02);
+    transition: transform 1.5s linear;
+}
+
+.all-service img{
+    border-radius: 10px;
+}
